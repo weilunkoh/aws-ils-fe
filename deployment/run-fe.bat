@@ -1,0 +1,1 @@
+docker run -d -p 3000:3000 --rm --name mitb-aws-ils-fe mitb/aws-ils-fe:0.0.1

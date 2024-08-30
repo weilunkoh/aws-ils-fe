@@ -1,0 +1,14 @@
+.git
+.vscode
+
+/build
+/coverage
+/deployment
+/node_modules
+/.next
+
+.*.yml
+package-lock.json
+README.md
+Dockerfile
+.env.development
